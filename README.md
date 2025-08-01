@@ -97,8 +97,8 @@ This project is for educational purposes. Feel free to fork, modify, and share!
 
 
 
-## GitHub repo link => 
-## Database setup instructions => 
+## GitHub repo link => https://github.com/Nand0027/SparkCharge.git
+
 ## Database code 
 
 create Database Bill_Systems;
@@ -127,7 +127,16 @@ select * from bill;
 ## Screenshots or demo GIF?
 
 
+## Login page:
+![Login](ScreenShot/Screenshot%202025-07-30%20115605.png)
 
 
+## Admin Panel:
+![Admin Panel](ScreenShot/Screenshot%202025-07-30%20115848.png)
 
 
+## Customer Panel:
+![Customer Panel](ScreenShot/Screenshot%202025-07-30%20120632.png)
+
+## New Customer add:
+![New Customer add](ScreenShot/Screenshot%202025-07-30%20115908.png)
