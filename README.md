@@ -10,17 +10,16 @@ Welcome to sparkCharge ||
 
 **SparkCharge** is a Java-based Electricity Billing System desktop application. It provides an interface for managing customer records, meter information, billing details, and administrative functions.
 
-## 📦 Project Structure
 
+## 📦 Project Structure
 This project is packaged into a `.jar` file for easy execution on any Java-supported system.
 
-## 🚀 How to Run
 
-### Requirements
+## 🚀 How to Run
+## Requirements
 - Java JDK 8 or later
 - MySQL Workbench Database (configured with your credentials and schema)
-
-### Steps
+# Steps
 1. Clone the repository:
    ```bash
    git clone https://github.com/Nand9847/SparkCharge.git
@@ -57,7 +56,6 @@ Utility tools (Notepad, Calculator)
 
 
 
-
 🗂️ Database Design
 Tables Used:
 login, customer, meter_info, tax, rent, bill
@@ -72,7 +70,6 @@ Foreign: Relationships between customer, bill, and meter_info
 
 
 
-
 ⚠️ Limitations
 Desktop-only, no remote access
 
@@ -82,10 +79,8 @@ No multi-language or journal/logging features
 
 
 
-
 🙌 Conclusion
 This project demonstrates a practical implementation of a desktop-based electricity billing system that significantly reduces manual work and improves operational efficiency for electricity boards and their consumers.
-
 
 
 
@@ -93,15 +88,9 @@ This project demonstrates a practical implementation of a desktop-based electric
 This project is for educational purposes. Feel free to fork, modify, and share!
 
 
-
-
-
-
 ## GitHub repo link => https://github.com/Nand0027/SparkCharge.git
-<<<<<<< HEAD
 
-=======
->>>>>>> 8acc76face0374348a445719390e34f30aea6564
+
 ## Database code 
 
 create Database Bill_Systems;
@@ -127,16 +116,12 @@ select * from bill;
 
 
 
-## Screenshots or demo GIF?
-
-
+## Screenshots =>
 ## Login page:
 ![Login](ScreenShot/Screenshot%202025-07-30%20115605.png)
 
-
 ## Admin Panel:
 ![Admin Panel](ScreenShot/Screenshot%202025-07-30%20115848.png)
-
 
 ## Customer Panel:
 ![Customer Panel](ScreenShot/Screenshot%202025-07-30%20120632.png)
