@@ -97,8 +97,7 @@ This project is for educational purposes. Feel free to fork, modify, and share!
 
 
 
-## GitHub repo link => 
-## Database setup instructions => 
+## GitHub repo link => https://github.com/Nand0027/SparkCharge.git
 ## Database code 
 
 create Database Bill_Systems;
