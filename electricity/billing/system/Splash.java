@@ -20,7 +20,7 @@ public class Splash extends JFrame{
         setVisible(true);
 
         try{
-            Thread.sleep(6000);
+            Thread.sleep(5000);
             setVisible(false);
 
             new Login();
